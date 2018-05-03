@@ -1,2 +1,4 @@
 # bitmynt-parser
-A simple script for parsing json data from bitmynt.no
+A simple bash script for parsing json data from bitmynt.no.
+
+$ ./bitmynt.sh
